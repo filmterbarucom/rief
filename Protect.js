@@ -1,0 +1,2 @@
+protected_links = "http://jokersakong.com,http://www.film-terbaru.in,http://mutiarapoker.com,http://lapakgol.com,http://hoki99.com,http://hokikiu.com,http://film-drama.com,http://hokikiu.com,http://www.lapakgol.com,http://detikqq.com,http://www.hnb88.com,http://www.capsaraja.com,http://www.mainidb.com,http://www.rupiahpk.com,http://trikqq.com"; 
+auto_safelink();
